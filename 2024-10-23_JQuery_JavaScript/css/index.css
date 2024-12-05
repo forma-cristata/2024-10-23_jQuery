@@ -1,0 +1,57 @@
+html
+{
+    font-size: 2vh;
+}
+
+#triangle
+{
+    position: absolute;
+    left: calc(50vw - 207px);
+    top: 20vh;
+    z-index: -1;
+}
+
+#side_1
+{
+    position: fixed;
+    left: calc(50vw - 207px);
+    top: 38vh;
+}
+
+#side_2
+{
+    position: fixed;
+    right: calc(50vw - 207px);
+    top: 38vh;
+}
+
+#side_3
+{
+    position: fixed;
+    left: calc(50vw - 36px);
+    top: 67vh;
+}
+
+button
+{
+    width: 18vw;
+    position: fixed;
+    right: 10vw;
+    bottom: 21vh;
+}
+
+#test
+{
+    width: 15vw;
+    position: fixed;
+    right: 10vw;
+    bottom: 10vh;
+}
+
+#results
+{
+    position: fixed;
+    width: 18vw;
+    right: 10vw;
+    bottom: 10vh;
+}
