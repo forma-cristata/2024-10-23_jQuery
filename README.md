@@ -9,7 +9,7 @@ A simple web application that calculates the area of a triangle based on three s
 - Dynamic result display that stacks multiple calculations
 - Clean, responsive interface
 
-## Technical Details
+## Details
 
 The project includes two implementations:
 
